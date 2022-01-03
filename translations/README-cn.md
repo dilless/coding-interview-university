@@ -438,7 +438,7 @@
 
 - [ ] **学习C语言**
     - C 语言无处不在。在学习的过程中，你会在书籍，讲座，视频等任何地方看到它的身影
-    - [ ] [C程序设计语言，第二版](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+    - [x] [C程序设计语言，第二版](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - 这是一本简短的书，但是它将使你更好地使用 C 语言，并且如果你稍加练习，就会很快熟练。理解 C 可帮助你了解程序和内存的工作方式
         - 问题答案
 
